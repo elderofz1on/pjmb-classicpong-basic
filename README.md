@@ -1,5 +1,5 @@
 
-> Abrir essa página em [https://elderofz1on.github.io/game-pong/](https://elderofz1on.github.io/game-pong/)
+> Abrir essa página em [https://elderofz1on.github.io/game-pong/](https://elderofz1on.github.io/pjmb-classicpong-basic/)
 
 ## Usar como extensão
 
