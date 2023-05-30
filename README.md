@@ -1,5 +1,5 @@
 
-> Abrir essa página em [https://elderofz1on.github.io/game-pong/](https://elderofz1on.github.io/pjmb-classicpong-basic/)
+> Abrir essa página em [https://elderofz1on.github.io/pjmb-classicpong-basic/](https://elderofz1on.github.io/pjmb-classicpong-basic/)
 
 ## Usar como extensão
 
@@ -8,7 +8,7 @@ Este repositório pode ser adicionado como **extensão** no MakeCode.
 * abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * clique em **Novo Projeto**
 * clique em **Extensões** em baixo do menu com ícone de engrenagem
-* procure por **https://github.com/elderofz1on/game-pong** e importe
+* procure por **https://github.com/elderofz1on/pjmb-classicpong-basic** e importe
 
 ## Editar este projeto ![Build status badge](https://github.com/elderofz1on/game-pong/workflows/MakeCode/badge.svg)
 
@@ -16,7 +16,7 @@ Para editar este repositório no MakeCode.
 
 * abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * clique em **Importar** e depois clique em **Importar URL**
-* cole **https://github.com/elderofz1on/game-pong** e clique em importar
+* cole **https://github.com/elderofz1on/pjmb-classicpong-basic** e clique em importar
 
 ## Blocks preview
 
