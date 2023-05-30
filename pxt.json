@@ -1,5 +1,5 @@
 {
-    "name": "game-pong",
+    "name": "pjmb-classicpong-basic",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -26,5 +26,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "blocksprj"
 }
